@@ -1,0 +1,1 @@
+print("Diyorbek jamoda ish boshladi")
